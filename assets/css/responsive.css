@@ -1905,9 +1905,9 @@
         margin:0px 5px 20px
     }
     .clock-box li span{
-        font-size:22px;
+        font-size:18px;
         width:50px;
-        height:50px
+      
     }
     .authentication-form .theme-form .form-control{
         padding:12px 20px
