@@ -10,7 +10,7 @@ html{
 }
 body{
     overflow-x:hidden;
-    font-family:Poppins,sans-serif;
+    font-family:Bariol,sans-serif;
     background-color:#fff;
     position:relative;
     font-size:15px
@@ -1878,8 +1878,8 @@ ul{
 .address-bar{
     background:-webkit-gradient(linear, left bottom, left top, color-stop(0, #3b2364), to(#3b2364));
     background:linear-gradient(to top, #3b2364 0, #3b2364 100%);
-    padding-top:100px;
-    padding-bottom:100px;
+    padding-top:10px;
+    padding-bottom:10px;
     margin:0;
     display:-webkit-box;
     display:-ms-flexbox;
