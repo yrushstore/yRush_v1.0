@@ -314,7 +314,7 @@ ul{
 }
 .btn-custom.theme-color{
     background-image:-webkit-gradient(linear, left top, right top, from(#3b2364), color-stop(#3b2364), color-stop(#3b2364), to(#19d2dd));
-    background-image:linear-gradient(to right, #3b2364, #3b2364, #3b2364, #a07ae3)
+    background-image:linear-gradient(to right, #3b2364, #3b2364, #3b2364, #573e82)
 }
 .btn-custom:hover{
     background-position:100% 0;
